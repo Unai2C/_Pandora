@@ -1,0 +1,47 @@
+# Files the scene never loads: kept on disk, left out of the scene so the Explorer neither converts nor downloads them.
+# Keep this list short (folders and wildcards): the preview server matches every project file against every line on
+# each request, and a long list made it time out. Check it with: node scripts/unused-assets.cjs
+assets/animaciones
+assets/images/story/lore-v2
+assets/images/story/memory-0*.png
+assets/images/ui-rpg/symbols
+assets/images/ui-rpg/button*.png
+assets/images/ui-rpg/coin.png
+assets/images/ui-rpg/header.png
+assets/images/ui-rpg/hud.png
+assets/images/ui-rpg/inventory*.png
+assets/images/ui-rpg/memory-shard.png
+assets/images/ui-rpg/menu-panel-v3.png
+assets/images/ui-rpg/panel.png
+assets/images/ui-rpg/pangea-title.png
+assets/images/ui-rpg/skill*.png
+assets/images/ui-rpg/slot.png
+assets/scene/20261010_Pandora.glb
+assets/scene/modelos/Meshy_AI_*.glb
+assets/scene/modelos/PP_*.glb
+assets/scene/modelos/animaciones/Attack_Sword_emote.glb
+assets/scene/modelos/animaciones/Chop_Axe_emote.glb
+assets/scene/modelos/animaciones/PP_*_emote.glb
+assets/scene/modelos/animaciones/Receive_Tool_emote.glb
+assets/scene/modelos/animaciones/Sword_Attack_emote.glb
+assets/scene/modelos/arbol-central/Tree_Transition_*.glb
+assets/scene/modelos/fx/Bird_Perch.glb
+assets/scene/modelos/fx/Corrupt_Rings.glb
+assets/scene/modelos/fx/Friendly_Rings.glb
+assets/scene/modelos/fx/Heal_Aura.glb
+assets/scene/modelos/fx/LevelUp_FX.glb
+assets/scene/modelos/fx/Tree_Beam.glb
+assets/scene/modelos/pandora-v1-20261103/*.json
+# The old v0 export (the tools now use the identical palette in pandora-v1-20261103/textures).
+# No ! negations here: deploy lists files with glob, which ignores them, so a re-included file is silently dropped.
+assets/scene/modelos/pandora-v0-20261031
+assets/sounds/agents/*-v2.wav
+assets/sounds/success.mp3
+assets/sounds/wrong.mp3
+
+# Development files.
+scripts
+tests
+design
+output
+*.xlsx

@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "world-fruit-001",
+    "on": "PP_Bush_average_blueberry_on.000",
+    "off": "PP_Bush_average_blueberry_off.000"
+  },
+  {
+    "id": "world-fruit-002",
+    "on": "PP_Bush_average_blueberry_on.001",
+    "off": "PP_Bush_average_blueberry_off.001"
+  },
+  {
+    "id": "world-fruit-003",
+    "on": "PP_Bush_average_blueberry_on.002",
+    "off": "PP_Bush_average_blueberry_off.002"
+  },
+  {
+    "id": "world-fruit-004",
+    "on": "PP_Bush_average_blueberry_on.003",
+    "off": "PP_Bush_average_blueberry_off.003"
+  },
+  {
+    "id": "world-fruit-005",
+    "on": "PP_Bush_average_blueberry_on.004",
+    "off": "PP_Bush_average_blueberry_off.004"
+  },
+  {
+    "id": "world-fruit-006",
+    "on": "PP_Bush_average_blueberry_on.005",
+    "off": "PP_Bush_average_blueberry_off.005"
+  },
+  {
+    "id": "world-fruit-007",
+    "on": "PP_Bush_average_blueberry_on.006",
+    "off": "PP_Bush_average_blueberry_off.006"
+  },
+  {
+    "id": "world-fruit-008",
+    "on": "PP_Bush_average_blueberry_on.007",
+    "off": "PP_Bush_average_blueberry_off.007"
+  },
+  {
+    "id": "world-fruit-009",
+    "on": "PP_Bush_average_blueberry_on.008",
+    "off": "PP_Bush_average_blueberry_off.008"
+  },
+  {
+    "id": "world-fruit-010",
+    "on": "PP_Bush_average_blueberry_on.009",
+    "off": "PP_Bush_average_blueberry_off.009"
+  },
+  {
+    "id": "world-fruit-011",
+    "on": "PP_Bush_average_blueberry_on.010",
+    "off": "PP_Bush_average_blueberry_off.010"
+  },
+  {
+    "id": "world-fruit-012",
+    "on": "PP_Bush_average_cowberry_on.000",
+    "off": "PP_Bush_average_cowberry_off.000"
+  },
+  {
+    "id": "world-fruit-013",
+    "on": "PP_Bush_average_cowberry_on.001",
+    "off": "PP_Bush_average_cowberry_off.001"
+  },
+  {
+    "id": "world-fruit-014",
+    "on": "PP_Bush_average_cowberry_on.002",
+    "off": "PP_Bush_average_cowberry_off.002"
+  },
+  {
+    "id": "world-fruit-015",
+    "on": "PP_Bush_average_cowberry_on.003",
+    "off": "PP_Bush_average_cowberry_off.003"
+  },
+  {
+    "id": "world-fruit-016",
+    "on": "PP_Bush_average_cowberry_on.004",
+    "off": "PP_Bush_average_cowberry_off.004"
+  },
+  {
+    "id": "world-fruit-017",
+    "on": "PP_Bush_average_cowberry_on.005",
+    "off": "PP_Bush_average_cowberry_off.005"
+  },
+  {
+    "id": "world-fruit-018",
+    "on": "PP_Bush_average_cowberry_on.006",
+    "off": "PP_Bush_average_cowberry_off.006"
+  },
+  {
+    "id": "world-fruit-019",
+    "on": "PP_Bush_average_cowberry_on.007",
+    "off": "PP_Bush_average_cowberry_off.007"
+  },
+  {
+    "id": "world-fruit-020",
+    "on": "PP_Bush_average_cowberry_on.008",
+    "off": "PP_Bush_average_cowberry_off.008"
+  },
+  {
+    "id": "world-fruit-021",
+    "on": "PP_Bush_average_cowberry_on.009",
+    "off": "PP_Bush_average_cowberry_off.009"
+  },
+  {
+    "id": "world-fruit-022",
+    "on": "PP_Bush_average_cowberry_on.010",
+    "off": "PP_Bush_average_cowberry_off.010"
+  },
+  {
+    "id": "world-fruit-023",
+    "on": "PP_Bush_average_cowberry_on.011",
+    "off": "PP_Bush_average_cowberry_off.011"
+  },
+  {
+    "id": "world-fruit-024",
+    "on": "PP_Bush_big_blueberry_on.000",
+    "off": "PP_Bush_big_blueberry_off.000"
+  },
+  {
+    "id": "world-fruit-025",
+    "on": "PP_Bush_big_blueberry_on.001",
+    "off": "PP_Bush_big_blueberry_off.001"
+  },
+  {
+    "id": "world-fruit-026",
+    "on": "PP_Bush_big_blueberry_on.002",
+    "off": "PP_Bush_big_blueberry_off.002"
+  },
+  {
+    "id": "world-fruit-027",
+    "on": "PP_Bush_big_blueberry_on.003",
+    "off": "PP_Bush_big_blueberry_off.003"
+  },
+  {
+    "id": "world-fruit-028",
+    "on": "PP_Bush_big_blueberry_on.004",
+    "off": "PP_Bush_big_blueberry_off.004"
+  },
+  {
+    "id": "world-fruit-029",
+    "on": "PP_Bush_big_blueberry_on.005",
+    "off": "PP_Bush_big_blueberry_off.005"
+  },
+  {
+    "id": "world-fruit-030",
+    "on": "PP_Bush_big_blueberry_on.006",
+    "off": "PP_Bush_big_blueberry_off.006"
+  },
+  {
+    "id": "world-fruit-031",
+    "on": "PP_Bush_big_blueberry_on.007",
+    "off": "PP_Bush_big_blueberry_off.007"
+  },
+  {
+    "id": "world-fruit-032",
+    "on": "PP_Bush_big_blueberry_on.008",
+    "off": "PP_Bush_big_blueberry_off.008"
+  },
+  {
+    "id": "world-fruit-033",
+    "on": "PP_Bush_big_blueberry_on.009",
+    "off": "PP_Bush_big_blueberry_off.009"
+  },
+  {
+    "id": "world-fruit-034",
+    "on": "PP_Bush_big_blueberry_on.010",
+    "off": "PP_Bush_big_blueberry_off.010"
+  },
+  {
+    "id": "world-fruit-035",
+    "on": "PP_Bush_big_cowberry_on.000",
+    "off": "PP_Bush_big_cowberry_off.000"
+  },
+  {
+    "id": "world-fruit-036",
+    "on": "PP_Bush_big_cowberry_on.001",
+    "off": "PP_Bush_big_cowberry_off.001"
+  },
+  {
+    "id": "world-fruit-037",
+    "on": "PP_Bush_big_cowberry_on.002",
+    "off": "PP_Bush_big_cowberry_off.002"
+  },
+  {
+    "id": "world-fruit-038",
+    "on": "PP_Bush_big_cowberry_on.003",
+    "off": "PP_Bush_big_cowberry_off.003"
+  },
+  {
+    "id": "world-fruit-039",
+    "on": "PP_Bush_big_cowberry_on.004",
+    "off": "PP_Bush_big_cowberry_off.004"
+  },
+  {
+    "id": "world-fruit-040",
+    "on": "PP_Bush_big_cowberry_on.005",
+    "off": "PP_Bush_big_cowberry_off.005"
+  },
+  {
+    "id": "world-fruit-041",
+    "on": "PP_Bush_big_cowberry_on.006",
+    "off": "PP_Bush_big_cowberry_off.006"
+  },
+  {
+    "id": "world-fruit-042",
+    "on": "PP_Bush_big_cowberry_on.007",
+    "off": "PP_Bush_big_cowberry_off.007"
+  },
+  {
+    "id": "world-fruit-043",
+    "on": "PP_Bush_big_cowberry_on.008",
+    "off": "PP_Bush_big_cowberry_off.008"
+  },
+  {
+    "id": "world-fruit-044",
+    "on": "PP_Bush_small_blueberry_on.000",
+    "off": "PP_Bush_Blueberry_small_off.000"
+  },
+  {
+    "id": "world-fruit-045",
+    "on": "PP_Bush_small_blueberry_on.001",
+    "off": "PP_Bush_Blueberry_small_off.001"
+  },
+  {
+    "id": "world-fruit-046",
+    "on": "PP_Bush_small_blueberry_on.002",
+    "off": "PP_Bush_Blueberry_small_off.002"
+  },
+  {
+    "id": "world-fruit-047",
+    "on": "PP_Bush_small_blueberry_on.003",
+    "off": "PP_Bush_Blueberry_small_off.003"
+  },
+  {
+    "id": "world-fruit-048",
+    "on": "PP_Bush_small_blueberry_on.004",
+    "off": "PP_Bush_Blueberry_small_off.004"
+  },
+  {
+    "id": "world-fruit-049",
+    "on": "PP_Bush_small_blueberry_on.005",
+    "off": "PP_Bush_Blueberry_small_off.005"
+  },
+  {
+    "id": "world-fruit-050",
+    "on": "PP_Bush_small_blueberry_on.006",
+    "off": "PP_Bush_Blueberry_small_off.006"
+  },
+  {
+    "id": "world-fruit-051",
+    "on": "PP_Bush_small_blueberry_on.007",
+    "off": "PP_Bush_Blueberry_small_off.007"
+  },
+  {
+    "id": "world-fruit-052",
+    "on": "PP_Bush_small_blueberry_on.008",
+    "off": "PP_Bush_Blueberry_small_off.008"
+  },
+  {
+    "id": "world-fruit-053",
+    "on": "PP_Bush_small_blueberry_on.009",
+    "off": "PP_Bush_Blueberry_small_off.009"
+  },
+  {
+    "id": "world-fruit-054",
+    "on": "PP_Bush_small_blueberry_on.010",
+    "off": "PP_Bush_Blueberry_small_off.010"
+  },
+  {
+    "id": "world-fruit-055",
+    "on": "PP_Bush_small_blueberry_on.011",
+    "off": "PP_Bush_Blueberry_small_off.011"
+  },
+  {
+    "id": "world-fruit-056",
+    "on": "PP_Bush_small_blueberry_on.012",
+    "off": "PP_Bush_Blueberry_small_off.012"
+  },
+  {
+    "id": "world-fruit-057",
+    "on": "PP_Bush_small_blueberry_on.013",
+    "off": "PP_Bush_Blueberry_small_off.013"
+  },
+  {
+    "id": "world-fruit-058",
+    "on": "PP_Bush_small_cowberry_on.000",
+    "off": "PP_Bush_small_cowberry_off.000"
+  },
+  {
+    "id": "world-fruit-059",
+    "on": "PP_Bush_small_cowberry_on.001",
+    "off": "PP_Bush_small_cowberry_off.001"
+  },
+  {
+    "id": "world-fruit-060",
+    "on": "PP_Bush_small_cowberry_on.002",
+    "off": "PP_Bush_small_cowberry_off.002"
+  },
+  {
+    "id": "world-fruit-061",
+    "on": "PP_Bush_small_cowberry_on.003",
+    "off": "PP_Bush_small_cowberry_off.003"
+  },
+  {
+    "id": "world-fruit-062",
+    "on": "PP_Bush_small_cowberry_on.004",
+    "off": "PP_Bush_small_cowberry_off.004"
+  },
+  {
+    "id": "world-fruit-063",
+    "on": "PP_Bush_small_cowberry_on.005",
+    "off": "PP_Bush_small_cowberry_off.005"
+  },
+  {
+    "id": "world-fruit-064",
+    "on": "PP_Bush_small_cowberry_on.006",
+    "off": "PP_Bush_small_cowberry_off.006"
+  },
+  {
+    "id": "world-fruit-065",
+    "on": "PP_Bush_small_cowberry_on.007",
+    "off": "PP_Bush_small_cowberry_off.007"
+  },
+  {
+    "id": "world-fruit-066",
+    "on": "PP_Bush_small_cowberry_on.008",
+    "off": "PP_Bush_small_cowberry_off.008"
+  },
+  {
+    "id": "world-fruit-067",
+    "on": "PP_Bush_small_cowberry_on.009",
+    "off": "PP_Bush_small_cowberry_off.009"
+  },
+  {
+    "id": "world-fruit-068",
+    "on": "PP_Bush_small_cowberry_on.010",
+    "off": "PP_Bush_small_cowberry_off.010"
+  },
+  {
+    "id": "world-fruit-069",
+    "on": "PP_Bush_small_cowberry_on.011",
+    "off": "PP_Bush_small_cowberry_off.011"
+  },
+  {
+    "id": "world-fruit-070",
+    "on": "PP_Bush_small_cowberry_on.012",
+    "off": "PP_Bush_small_cowberry_off.012"
+  },
+  {
+    "id": "world-stone-071",
+    "on": "PP_Rock_Gem_01_Mined",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-072",
+    "on": "PP_Rock_Gem_01_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-073",
+    "on": "PP_Rock_Gem_01_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-074",
+    "on": "PP_Rock_Gem_01_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-075",
+    "on": "PP_Rock_Gem_01_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-076",
+    "on": "PP_Rock_Gem_01_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-077",
+    "on": "PP_Rock_Gem_01_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-078",
+    "on": "PP_Rock_Gem_01_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-079",
+    "on": "PP_Rock_Gem_02_Mined",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-080",
+    "on": "PP_Rock_Gem_02_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-081",
+    "on": "PP_Rock_Gem_02_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-082",
+    "on": "PP_Rock_Gem_02_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-084",
+    "on": "PP_Rock_Gem_02_Mined.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-085",
+    "on": "PP_Rock_Gem_02_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-086",
+    "on": "PP_Rock_Gem_02_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-087",
+    "on": "PP_Rock_Gem_02_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-088",
+    "on": "PP_Rock_Gem_02_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-089",
+    "on": "PP_Rock_Gem_02_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-090",
+    "on": "PP_Rock_Gem_02_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-091",
+    "on": "PP_Rock_Gem_02_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-092",
+    "on": "PP_Rock_Gem_02_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-093",
+    "on": "PP_Rock_Gem_02_Silver.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-094",
+    "on": "PP_Rock_Gem_03_Mined",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-095",
+    "on": "PP_Rock_Gem_03_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-096",
+    "on": "PP_Rock_Gem_03_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-097",
+    "on": "PP_Rock_Gem_03_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-098",
+    "on": "PP_Rock_Gem_03_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-099",
+    "on": "PP_Rock_Gem_03_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-100",
+    "on": "PP_Rock_Gem_03_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-101",
+    "on": "PP_Rock_Gem_03_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-102",
+    "on": "PP_Rock_Gem_03_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-103",
+    "on": "PP_Rock_Gem_03_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-104",
+    "on": "PP_Rock_Gem_03_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-105",
+    "on": "PP_Rock_Gem_03_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-106",
+    "on": "PP_Rock_Gem_03_Silver.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-107",
+    "on": "PP_Rock_Gem_03_Silver.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-108",
+    "on": "PP_Rock_Gem_03_Silver.009",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-109",
+    "on": "PP_Rock_Gem_04_Mined",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-110",
+    "on": "PP_Rock_Gem_04_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-111",
+    "on": "PP_Rock_Gem_04_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-112",
+    "on": "PP_Rock_Gem_04_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-114",
+    "on": "PP_Rock_Gem_04_Mined.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-115",
+    "on": "PP_Rock_Gem_04_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-116",
+    "on": "PP_Rock_Gem_04_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-117",
+    "on": "PP_Rock_Gem_04_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-118",
+    "on": "PP_Rock_Gem_04_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-119",
+    "on": "PP_Rock_Gem_04_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-121",
+    "on": "PP_Rock_Gem_04_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-122",
+    "on": "PP_Rock_Gem_04_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-123",
+    "on": "PP_Rock_Gem_05_Mined",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-124",
+    "on": "PP_Rock_Gem_05_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-125",
+    "on": "PP_Rock_Gem_05_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-126",
+    "on": "PP_Rock_Gem_05_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-127",
+    "on": "PP_Rock_Gem_05_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-128",
+    "on": "PP_Rock_Gem_05_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-129",
+    "on": "PP_Rock_Gem_05_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-130",
+    "on": "PP_Rock_Gem_05_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-131",
+    "on": "PP_Rock_Gem_05_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-132",
+    "on": "PP_Rock_Gem_06_Mined",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-133",
+    "on": "PP_Rock_Gem_06_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-134",
+    "on": "PP_Rock_Gem_06_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-135",
+    "on": "PP_Rock_Gem_06_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-136",
+    "on": "PP_Rock_Gem_06_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-137",
+    "on": "PP_Rock_Gem_06_Mined.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-138",
+    "on": "PP_Rock_Gem_06_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-139",
+    "on": "PP_Rock_Gem_06_Mined.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-140",
+    "on": "PP_Rock_Gem_06_Mined.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-141",
+    "on": "PP_Rock_Gem_06_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-142",
+    "on": "PP_Rock_Gem_06_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-143",
+    "on": "PP_Rock_Gem_06_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-144",
+    "on": "PP_Rock_Gem_06_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-145",
+    "on": "PP_Rock_Gem_06_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-146",
+    "on": "PP_Rock_Gem_06_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-147",
+    "on": "PP_Rock_Gem_06_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-148",
+    "on": "PP_Rock_Gem_06_Silver.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-149",
+    "on": "PP_Rock_Gem_06_Silver.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-150",
+    "on": "PP_Stone_Crystal_01_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-151",
+    "on": "PP_Stone_Crystal_01_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-152",
+    "on": "PP_Stone_Crystal_01_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-153",
+    "on": "PP_Stone_Crystal_01_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-154",
+    "on": "PP_Stone_Crystal_01_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-155",
+    "on": "PP_Stone_Crystal_01_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-156",
+    "on": "PP_Stone_Crystal_01_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-157",
+    "on": "PP_Stone_Crystal_02_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-158",
+    "on": "PP_Stone_Crystal_02_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-159",
+    "on": "PP_Stone_Crystal_02_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-160",
+    "on": "PP_Stone_Crystal_02_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-162",
+    "on": "PP_Stone_Crystal_02_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-163",
+    "on": "PP_Stone_Crystal_02_Mined.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-164",
+    "on": "PP_Stone_Crystal_02_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-165",
+    "on": "PP_Stone_Crystal_02_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-166",
+    "on": "PP_Stone_Crystal_02_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-167",
+    "on": "PP_Stone_Crystal_02_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-168",
+    "on": "PP_Stone_Crystal_03_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-169",
+    "on": "PP_Stone_Crystal_03_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-170",
+    "on": "PP_Stone_Crystal_03_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-171",
+    "on": "PP_Stone_Crystal_03_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-172",
+    "on": "PP_Stone_Crystal_03_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-173",
+    "on": "PP_Stone_Crystal_03_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-174",
+    "on": "PP_Stone_Crystal_03_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-175",
+    "on": "PP_Stone_Crystal_03_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-176",
+    "on": "PP_Stone_Crystal_03_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-177",
+    "on": "PP_Stone_Crystal_03_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-178",
+    "on": "PP_Stone_Crystal_03_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-179",
+    "on": "PP_Stone_Crystal_03_Silver.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-180",
+    "on": "PP_Stone_Crystal_03_Silver.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-181",
+    "on": "PP_Stone_Crystal_04_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-182",
+    "on": "PP_Stone_Crystal_04_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-183",
+    "on": "PP_Stone_Crystal_04_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-184",
+    "on": "PP_Stone_Crystal_04_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-185",
+    "on": "PP_Stone_Crystal_04_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-186",
+    "on": "PP_Stone_Crystal_04_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-187",
+    "on": "PP_Stone_Crystal_04_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-188",
+    "on": "PP_Stone_Crystal_04_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-189",
+    "on": "PP_Stone_Crystal_04_Silver.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-190",
+    "on": "PP_Stone_Crystal_04_Silver.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-191",
+    "on": "PP_Stone_Crystal_04_Silver.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-192",
+    "on": "PP_Stone_Crystal_04_Silver.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-193",
+    "on": "PP_Stone_Crystal_04_Silver.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-194",
+    "on": "PP_Stone_Crystal_05_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-195",
+    "on": "PP_Stone_Crystal_05_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-196",
+    "on": "PP_Stone_Crystal_05_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-197",
+    "on": "PP_Stone_Crystal_05_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-198",
+    "on": "PP_Stone_Crystal_05_Mined.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-199",
+    "on": "PP_Stone_Crystal_05_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-200",
+    "on": "PP_Stone_Crystal_05_Mined.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-201",
+    "on": "PP_Stone_Crystal_05_Mined.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-202",
+    "on": "PP_Stone_Crystal_05_Mined.009",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-203",
+    "on": "PP_Stone_Crystal_05_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-204",
+    "on": "PP_Stone_Crystal_05_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-205",
+    "on": "PP_Stone_Crystal_05_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-206",
+    "on": "PP_Stone_Crystal_05_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-207",
+    "on": "PP_Stone_Crystal_06_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-208",
+    "on": "PP_Stone_Crystal_06_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-209",
+    "on": "PP_Stone_Crystal_06_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-210",
+    "on": "PP_Stone_Crystal_06_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-212",
+    "on": "PP_Stone_Crystal_06_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-213",
+    "on": "PP_Stone_Crystal_06_Mined.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-214",
+    "on": "PP_Stone_Crystal_06_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-215",
+    "on": "PP_Stone_Crystal_06_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-216",
+    "on": "PP_Stone_Crystal_06_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-217",
+    "on": "PP_Stone_Crystal_06_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-218",
+    "on": "PP_Stone_Crystal_07_Mined.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-219",
+    "on": "PP_Stone_Crystal_07_Mined.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-220",
+    "on": "PP_Stone_Crystal_07_Mined.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-221",
+    "on": "PP_Stone_Crystal_07_Mined.004",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-222",
+    "on": "PP_Stone_Crystal_07_Mined.005",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-223",
+    "on": "PP_Stone_Crystal_07_Mined.006",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-224",
+    "on": "PP_Stone_Crystal_07_Mined.007",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-225",
+    "on": "PP_Stone_Crystal_07_Mined.008",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-226",
+    "on": "PP_Stone_Crystal_07_Mined.009",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-227",
+    "on": "PP_Stone_Crystal_07_Silver",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-228",
+    "on": "PP_Stone_Crystal_07_Silver.001",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-229",
+    "on": "PP_Stone_Crystal_07_Silver.002",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-stone-230",
+    "on": "PP_Stone_Crystal_07_Silver.003",
+    "off": "template:PP_Stone_Plain_01"
+  },
+  {
+    "id": "world-wood-231",
+    "on": "PP_Tree_02",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-232",
+    "on": "PP_Tree_02.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-233",
+    "on": "PP_Tree_02.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-234",
+    "on": "PP_Tree_03",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-235",
+    "on": "PP_Tree_03.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-236",
+    "on": "PP_Tree_03.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-237",
+    "on": "PP_Tree_03.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-238",
+    "on": "PP_Tree_04",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-239",
+    "on": "PP_Tree_04.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-240",
+    "on": "PP_Tree_04.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-241",
+    "on": "PP_Tree_04.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-242",
+    "on": "PP_Tree_05",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-243",
+    "on": "PP_Tree_05.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-244",
+    "on": "PP_Tree_05.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-245",
+    "on": "PP_Tree_05.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-246",
+    "on": "PP_Tree_05.004",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-247",
+    "on": "PP_Tree_06",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-248",
+    "on": "PP_Tree_06.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-249",
+    "on": "PP_Tree_07",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-250",
+    "on": "PP_Tree_07.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-251",
+    "on": "PP_Tree_07.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-252",
+    "on": "PP_Tree_07.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-253",
+    "on": "PP_Tree_08",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-254",
+    "on": "PP_Tree_08.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-255",
+    "on": "PP_Tree_08.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-256",
+    "on": "PP_Tree_08.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-257",
+    "on": "PP_Tree_08.004",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-258",
+    "on": "PP_Tree_Pine_Basic_on_01",
+    "off": "PP_Tree_Pine_Basic_off_01"
+  },
+  {
+    "id": "world-wood-259",
+    "on": "PP_Tree_Pine_Basic_on_01.001",
+    "off": "PP_Tree_Pine_Basic_off_01.001"
+  },
+  {
+    "id": "world-wood-260",
+    "on": "PP_Tree_Pine_Basic_on_01.002",
+    "off": "PP_Tree_Pine_Basic_off_01.002"
+  },
+  {
+    "id": "world-wood-261",
+    "on": "PP_Tree_Pine_Basic_on_01.003",
+    "off": "PP_Tree_Pine_Basic_off_01.003"
+  },
+  {
+    "id": "world-wood-262",
+    "on": "PP_Tree_Pine_Basic_on_01.004",
+    "off": "PP_Tree_Pine_Basic_off_01.004"
+  },
+  {
+    "id": "world-wood-263",
+    "on": "PP_Tree_Pine_Basic_on_02",
+    "off": "PP_Tree_Pine_Basic_off_02"
+  },
+  {
+    "id": "world-wood-264",
+    "on": "PP_Tree_Pine_Basic_on_02.001",
+    "off": "PP_Tree_Pine_Basic_off_02.001"
+  },
+  {
+    "id": "world-wood-265",
+    "on": "PP_Tree_Pine_Basic_on_02.002",
+    "off": "PP_Tree_Pine_Basic_off_02.002"
+  },
+  {
+    "id": "world-wood-266",
+    "on": "PP_Tree_Pine_Basic_on_02.003",
+    "off": "PP_Tree_Pine_Basic_off_02.003"
+  },
+  {
+    "id": "world-wood-267",
+    "on": "PP_Tree_Pine_Basic_on_02.004",
+    "off": "PP_Tree_Pine_Basic_off_02.004"
+  },
+  {
+    "id": "world-wood-268",
+    "on": "PP_Tree_Pine_Basic_on_03",
+    "off": "PP_Tree_Pine_Basic_off_03"
+  },
+  {
+    "id": "world-wood-269",
+    "on": "PP_Tree_Pine_Basic_on_03.001",
+    "off": "PP_Tree_Pine_Basic_off_03.001"
+  },
+  {
+    "id": "world-wood-270",
+    "on": "PP_Tree_Pine_Basic_on_03.002",
+    "off": "PP_Tree_Pine_Basic_off_03.002"
+  },
+  {
+    "id": "world-wood-271",
+    "on": "PP_Tree_Pine_Basic_on_03.003",
+    "off": "PP_Tree_Pine_Basic_off_03.003"
+  },
+  {
+    "id": "world-wood-272",
+    "on": "PP_Tree_Pine_Basic_on_03.004",
+    "off": "PP_Tree_Pine_Basic_off_03.004"
+  },
+  {
+    "id": "world-wood-273",
+    "on": "PP_Tree_Pine_Basic_on_05",
+    "off": "PP_Tree_Pine_Basic_off_05"
+  },
+  {
+    "id": "world-wood-274",
+    "on": "PP_Tree_Pine_Basic_on_05.001",
+    "off": "PP_Tree_Pine_Basic_off_05.001"
+  },
+  {
+    "id": "world-wood-275",
+    "on": "PP_Tree_Pine_Basic_on_05.002",
+    "off": "PP_Tree_Pine_Basic_off_05.002"
+  },
+  {
+    "id": "world-wood-276",
+    "on": "PP_Tree_Pine_Basic_on_05.003",
+    "off": "PP_Tree_Pine_Basic_off_05.003"
+  },
+  {
+    "id": "world-wood-277",
+    "on": "PP_Tree_Pine_Basic_on_05.004",
+    "off": "PP_Tree_Pine_Basic_off_05.004"
+  },
+  {
+    "id": "world-wood-278",
+    "on": "PP_Tree_Pine_Basic_on_05.005",
+    "off": "PP_Tree_Pine_Basic_off_05.005"
+  },
+  {
+    "id": "world-wood-279",
+    "on": "PP_Tree_Pine_Basic_on_07",
+    "off": "PP_Tree_Pine_Basic_off_07"
+  },
+  {
+    "id": "world-wood-280",
+    "on": "PP_Tree_Pine_Basic_on_07.001",
+    "off": "PP_Tree_Pine_Basic_off_07.001"
+  },
+  {
+    "id": "world-wood-281",
+    "on": "PP_Tree_Pine_Basic_on_07.002",
+    "off": "PP_Tree_Pine_Basic_off_07.002"
+  },
+  {
+    "id": "world-wood-282",
+    "on": "PP_Tree_Pine_Basic_on_07.003",
+    "off": "PP_Tree_Pine_Basic_off_07.003"
+  },
+  {
+    "id": "world-wood-283",
+    "on": "PP_Tree_Pine_Basic_on_07.004",
+    "off": "PP_Tree_Pine_Basic_off_07.004"
+  },
+  {
+    "id": "world-wood-284",
+    "on": "PP_Tree_Pine_Basic_on_08",
+    "off": "PP_Tree_Pine_Basic_off_08"
+  },
+  {
+    "id": "world-wood-285",
+    "on": "PP_Tree_Pine_Basic_on_08.001",
+    "off": "PP_Tree_Pine_Basic_off_08.001"
+  },
+  {
+    "id": "world-wood-286",
+    "on": "PP_Tree_Pine_Basic_on_08.002",
+    "off": "PP_Tree_Pine_Basic_off_08.002"
+  },
+  {
+    "id": "world-wood-287",
+    "on": "PP_Tree_Pine_Basic_on_08.003",
+    "off": "PP_Tree_Pine_Basic_off_08.003"
+  },
+  {
+    "id": "world-wood-288",
+    "on": "PP_Tree_Pine_Basic_on_08.004",
+    "off": "PP_Tree_Pine_Basic_off_08.004"
+  },
+  {
+    "id": "world-wood-289",
+    "on": "PP_Tree_Pine_Basic_on_08.005",
+    "off": "PP_Tree_Pine_Basic_off_08.005"
+  },
+  {
+    "id": "world-wood-290",
+    "on": "PP_Tree_Pine_Basic_on_09",
+    "off": "PP_Tree_Pine_Basic_off_09"
+  },
+  {
+    "id": "world-wood-291",
+    "on": "PP_Tree_Pine_Basic_on_09.001",
+    "off": "PP_Tree_Pine_Basic_off_09.001"
+  },
+  {
+    "id": "world-wood-292",
+    "on": "PP_Tree_Pine_Basic_on_09.002",
+    "off": "PP_Tree_Pine_Basic_off_09.002"
+  },
+  {
+    "id": "world-wood-293",
+    "on": "PP_Tree_Pine_Basic_on_09.003",
+    "off": "PP_Tree_Pine_Basic_off_09.003"
+  },
+  {
+    "id": "world-wood-294",
+    "on": "PP_Tree_Pine_Basic_on_09.004",
+    "off": "PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-295",
+    "on": "PP_Tree_Pine_Basic_on_09.005",
+    "off": "PP_Tree_Pine_Basic_off_09.005"
+  },
+  {
+    "id": "world-wood-296",
+    "on": "PP_Tree_Pine_Basic_on_10",
+    "off": "PP_Tree_Pine_Basic_off_10"
+  },
+  {
+    "id": "world-wood-297",
+    "on": "PP_Tree_Pine_Basic_on_10.001",
+    "off": "PP_Tree_Pine_Basic_off_10.001"
+  },
+  {
+    "id": "world-wood-298",
+    "on": "PP_Tree_Pine_Basic_on_10.002",
+    "off": "PP_Tree_Pine_Basic_off_10.002"
+  },
+  {
+    "id": "world-wood-299",
+    "on": "PP_Tree_Pine_Basic_on_10.003",
+    "off": "PP_Tree_Pine_Basic_off_10.003"
+  },
+  {
+    "id": "world-wood-300",
+    "on": "PP_Tree_Pine_Basic_on_10.004",
+    "off": "PP_Tree_Pine_Basic_off_10.004"
+  },
+  {
+    "id": "world-wood-301",
+    "on": "PP_Tree_Pine_avarage_on.000",
+    "off": "PP_Tree_Pine_avarage_off.000"
+  },
+  {
+    "id": "world-wood-302",
+    "on": "PP_Tree_Pine_avarage_on.001",
+    "off": "PP_Tree_Pine_avarage_off.001"
+  },
+  {
+    "id": "world-wood-303",
+    "on": "PP_Tree_Pine_avarage_on.002",
+    "off": "PP_Tree_Pine_avarage_off.002"
+  },
+  {
+    "id": "world-wood-304",
+    "on": "PP_Tree_Pine_avarage_on.003",
+    "off": "PP_Tree_Pine_avarage_off.003"
+  },
+  {
+    "id": "world-wood-305",
+    "on": "PP_Tree_Pine_avarage_on.004",
+    "off": "PP_Tree_Pine_avarage_off.004"
+  },
+  {
+    "id": "world-wood-306",
+    "on": "PP_Tree_Pine_avarage_on.005",
+    "off": "PP_Tree_Pine_avarage_off.005"
+  },
+  {
+    "id": "world-wood-307",
+    "on": "PP_Tree_Pine_avarage_on.006",
+    "off": "PP_Tree_Pine_avarage_off.006"
+  },
+  {
+    "id": "world-wood-308",
+    "on": "PP_Tree_Pine_avarage_on.007",
+    "off": "PP_Tree_Pine_avarage_off.007"
+  },
+  {
+    "id": "world-wood-309",
+    "on": "PP_Tree_Pine_big_on.000",
+    "off": "PP_Tree_Pine_big_off.000"
+  },
+  {
+    "id": "world-wood-310",
+    "on": "PP_Tree_Pine_big_on.001",
+    "off": "PP_Tree_Pine_big_off.001"
+  },
+  {
+    "id": "world-wood-311",
+    "on": "PP_Tree_Pine_big_on.002",
+    "off": "PP_Tree_Pine_big_off.002"
+  },
+  {
+    "id": "world-wood-312",
+    "on": "PP_Tree_Pine_big_on.003",
+    "off": "PP_Tree_Pine_big_off.003"
+  },
+  {
+    "id": "world-wood-313",
+    "on": "Tree_Pine_small_on.000",
+    "off": "Tree_Pine_small_off.000"
+  },
+  {
+    "id": "world-wood-314",
+    "on": "Tree_Pine_small_on.001",
+    "off": "Tree_Pine_small_off.001"
+  },
+  {
+    "id": "world-wood-315",
+    "on": "Tree_Pine_small_on.002",
+    "off": "Tree_Pine_small_off.002"
+  },
+  {
+    "id": "world-wood-316",
+    "on": "Tree_Pine_small_on.003",
+    "off": "Tree_Pine_small_off.003"
+  },
+  {
+    "id": "world-wood-317",
+    "on": "Tree_average_lush",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-318",
+    "on": "Tree_average_lush.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-319",
+    "on": "Tree_average_lush.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-320",
+    "on": "Tree_average_lush.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-321",
+    "on": "Tree_average_regular",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-322",
+    "on": "Tree_average_regular.001",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-323",
+    "on": "Tree_average_regular.002",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-324",
+    "on": "Tree_average_regular.003",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "id": "world-wood-325",
+    "on": "Tree_average_regular.004",
+    "off": "template:PP_Tree_Pine_Basic_off_09.004"
+  },
+  {
+    "skipped": "PP_Rock_Gem_02_Mined.004",
+    "reason": "duplicate in place"
+  },
+  {
+    "skipped": "PP_Rock_Gem_04_Mined.004",
+    "reason": "duplicate in place"
+  },
+  {
+    "skipped": "PP_Rock_Gem_04_Silver.004",
+    "reason": "duplicate in place"
+  },
+  {
+    "skipped": "PP_Stone_Crystal_02_Mined.005",
+    "reason": "duplicate in place"
+  },
+  {
+    "skipped": "PP_Stone_Crystal_06_Mined.005",
+    "reason": "duplicate in place"
+  }
+]
